@@ -2190,7 +2190,7 @@ def render_html_content(
                 <div class="footer-content">
                     由 <span class="project-name">TrendRadar</span> 生成 ·
                     <a href="https://zangjinkai.com" target="_blank" rel="noopener noreferrer" class="footer-link">
-                        跳转我的主站
+                        探索更多
                     </a>"""
 
     if update_info:
