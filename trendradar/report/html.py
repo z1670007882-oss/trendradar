@@ -2189,8 +2189,8 @@ def render_html_content(
             <div class="footer">
                 <div class="footer-content">
                     由 <span class="project-name">TrendRadar</span> 生成 ·
-                    <a href="https://github.com/sansan0/TrendRadar" target="_blank" class="footer-link">
-                        GitHub 开源项目
+                    <a href="https://zangjinkai.com" target="_blank" rel="noopener noreferrer" class="footer-link">
+                        我的主站
                     </a>"""
 
     if update_info:
