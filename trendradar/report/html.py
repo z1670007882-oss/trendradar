@@ -2546,7 +2546,6 @@ def render_html_content(
 
             <div class="footer">
                 <div class="footer-content">
-                    由 <span class="project-name">TrendRadar</span> 生成 ·
                     <a href="https://zangjinkai.com" target="_blank" rel="noopener noreferrer" class="footer-link">
                         探索更多
                     </a>"""
